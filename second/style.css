@@ -24,5 +24,9 @@ div {
 .red {
   float: right;
   height: 35%;
-  background-color: rgb(190, 32, 32);
+  background: url(http://images.realclear.com/323859_5_.jpg) no-repeat center; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
