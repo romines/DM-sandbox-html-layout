@@ -1,0 +1,43 @@
+html, body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+div {
+  width: 100%;
+  height: 15%;
+}
+
+.grey {
+  padding-top: 1.4vh;
+  padding-left: 2%;
+  font-size: 12vh;
+  height: 13%;
+  background-color: rgb(178, 178, 179);
+}
+.square {
+  position: relative;
+  width: 1em;
+  height: 86%;
+}
+.text {
+  height: auto;
+}
+.text p {
+  max-width: 92%;
+  margin: 4%;
+}
+.blue {
+  background-color: rgb(57, 102, 154);
+}
+.turquoise {
+  background-color: turquoise;
+}
+.green {
+  background-color: rgb(82, 214, 151);
+}
+.yellow {
+  height: 65%;
+  background-color: rgb(204, 223, 51);
+}
